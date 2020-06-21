@@ -1,6 +1,8 @@
 # Exploratory-Data-Analysis-Youtube-
 This contains hidden insights from data.
 
+Note:- You can download dataset from https://www.kaggle.com/datasnaek/youtube-new
+
 Analysis answers so many questions about youtube videos:
 
 
